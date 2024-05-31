@@ -1,0 +1,16 @@
+export const ProfileElements = {
+    footerButton: 'footer button',
+    cellphoneCode: 'input[id="select"]',
+    cellphoneNumber: 'input[id="phoneNumber"]',
+    countryOption: '.options .custom-option:nth-child(2)',
+    continueButton: 'footer button:nth-child(2)',
+    backButton: 'footer button:nth-child(1)',
+    navyThemeBox: '.theme:nth-child(2)',
+    inputFile: 'input[type="file"]',
+    colorOption: 'cdk-color-selector div:nth-child(1) span:nth-child(2)',
+    chosenName: '.user-name',
+    profileName: '.profile-name',
+    profileTypeSelect: 'form #select',
+    profileOption: '.custom-option:nth-child(1)',
+    closeButton: 'header button',
+};
